@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: takesu-argocd-application
+  name: takesu
   namespace: argocd
 spec:
   project: default
